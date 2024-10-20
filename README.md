@@ -12,29 +12,29 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - Você tem uma máquina Windows, Linux ou Mac. Indique qual sistema operacional é compatível / não compatível.
 - Você leu a [documentação do Next.js](https://nextjs.org/docs).
 
-## 🚀 Instalando Student Assistant ChatBot
+## 🚀 Instalando chatbotSNCT
 
-Para instalar o Student Assistant ChatBot, siga estas etapas:
+Para instalar o chatbotSNCT, siga estas etapas:
 
 Linux e macOS:
 
 ```
-git clone https://github.com/erison7596/StudentAssistantBotFront.git
-cd StudentAssistantBotFront
+git clone https://github.com/erison7596/chatbotSNCT.git
+cd chatbotSNCT
 npm install
 ```
 
 Windows:
 
 ```
-git clone https://github.com/erison7596/StudentAssistantBotFront.git
-cd StudentAssistantBotFront
+git clone https://github.com/erison7596/chatbotSNCT.git
+cd chatbotSNCT
 npm install
 ```
 
-## ☕ Usando Student Assistant ChatBot
+## ☕ Usando chatbotSNCT
 
-Para usar Student Assistant ChatBot, siga estas etapas:
+Para usar chatbotSNCT, siga estas etapas:
 
 ```
 npm run dev
